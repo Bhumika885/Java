@@ -1,0 +1,6 @@
+Java is a popular, object-oriented programming language that can be used to code a variety of applications and services: 
+Java's slogan is "write once, run anywhere" because code written for one platform can be run on another without being rewritten. 
+Java is a secure language that's used for coding mobile apps, enterprise software, big data applications, and server-side technologies. 
+Java is based on the C and C++ languages, but is simpler to use and enforces an object-oriented programming model. 
+Java has a variety of open source and community built projects, software platforms, and APIs. 
+The JVM is available on many different operating systems, allowing the same .class files to run on multiple platforms.
